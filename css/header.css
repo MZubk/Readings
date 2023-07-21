@@ -78,7 +78,6 @@
 
 .inicio-cadastro {
     font-weight: 700;
-    font-family: var(--fonte-principal);
     color: var(--laranja);
     text-decoration: none;
 }
@@ -156,12 +155,9 @@
     .inicio-cadastro {
         font-size: 18px;
         font-weight: 700;
-        font-family: var(--fonte-principal);
         color: var(--laranja);
         text-decoration: none;
     }
-
-
 
 }
 
@@ -188,10 +184,8 @@
     .inicio-cadastro {
         font-size: 18px;
         font-weight: 700;
-        font-family: var(--fonte-principal);
         color: var(--laranja);
         text-decoration: none;
     }
-
 
 }
