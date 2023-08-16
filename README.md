@@ -6,7 +6,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-<a href="https://readings-three.vercel.app/index.html">Readings</a>
+### link <a href="https://readings-three.vercel.app/index.html" target="_blank">Readings</a>
+
 
 <img src="https://user-images.githubusercontent.com/69257259/261033596-0d74a436-23bc-479c-9fbc-65a9eb087d4b.png" alt="Pagina inicial do site Readings">
 
